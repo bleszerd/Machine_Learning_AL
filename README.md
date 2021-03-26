@@ -1,3 +1,3 @@
 # Machine_Learning_AL
 
-Modelo, dados e exercicios desenvolvidos durante o curso de Machine Learning da [Alura](https://alura.com.br).
+Model, data and exercises developed during [Alura](https://alura.com.br)'s Machine Learning course.
